@@ -2,7 +2,7 @@
 Contenido de Cursos, Tutoriales, Guias sobre Django en Video y en PDF
 
 ## Link del Contenido
-
+### "Actualizacion de nuevo contenido todos los dias"
 Integracion de Backbone y Django
 
 
